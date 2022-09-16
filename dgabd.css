@@ -194,8 +194,8 @@
 @media only screen and (min-width: 250px) and (max-width: 767px) {
     .container {width: 102%;}
     h1{
-        font-size: 40px !important;
-        text-justify: auto;
+        font-size: 38px !important;
+        text-indent: -4px;
     }
 
     .text-header-banner{
@@ -319,6 +319,8 @@
 
     .header-actu-div{
         background-image: url('./newspapers-3488857.jpg');
+        background-size: cover;
+        z-index: 200;
     }
 
     /* FORM CSS */

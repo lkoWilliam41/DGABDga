@@ -314,6 +314,13 @@
 
     }
 
+
+    /* TRAITEMENT IMAGE HEADER ACTU */
+
+    .header-actu-div{
+        background-image: url('./newspapers-3488857.jpg');
+    }
+
     /* FORM CSS */
 
     /* .Connexion-form{

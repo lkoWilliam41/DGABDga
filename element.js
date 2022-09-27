@@ -88,8 +88,7 @@ var bas = ` <footer>
                         </div>
                         <div class="footer-tittle">
                             <div class="footer-pera">
-                                <p>Lorem iaspsum doldfor sit amvset, consectetur adipisicing cvelit csed do
-                                    eiusmod tempor incididucvccnt ut labovre.</p>
+                                <p>La Direction Générale des Archives Nationales de la Bibliothèque Nationale de la Documentation Gabonaise.</p>
                             </div>
                         </div>
                     </div>
